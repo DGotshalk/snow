@@ -329,7 +329,7 @@ source ~/.vim/plugged/snow/shell/snow_dark.fish
 * [tmux](https://github.com/mcchrish/snow-tmux)
 * [kitty](https://github.com/mcchrish/kitty-snow)
 
-### building from source
+## building from source
 
 From the `templates` directory, run: `fish generate.fish`.
 
