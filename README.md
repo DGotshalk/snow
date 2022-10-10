@@ -1,3 +1,5 @@
+This is a fork from https://github.com/tsuyoshicho/snow who forked from https://github.com/Mitgorakh/snow which is from https://github.com/nightsense/snow. How fun, huh? I felt the dark theme was a little washed, so I changed the colors on the theme for dark by making the bg darker, and then upping the saturation 5% on some colors, but no other major changes from there.
+
 <table><tbody align='center'>
 
 <tr>
@@ -28,8 +30,8 @@
 <td><img src='http://www.colorhexa.com/fbffff.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/ae5865.png' height='24' width='39'></td>
 <td colspan='2'><code>Identifier</code></td>
-<td><img src='http://www.colorhexa.com/be868c.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/2c2d30.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/c38389.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/252628.png' height='24' width='39'></td>
 <td width='202'><code>Normal bg</code></td>
 </tr>
 <tr></tr>
@@ -38,17 +40,17 @@
 <td><img src='http://www.colorhexa.com/e5ebf1.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/906c33.png' height='24' width='39'></td>
 <td colspan='2'><code>Special</code></td>
-<td><img src='http://www.colorhexa.com/ab916d.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/363a3e.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/b19268.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/323639.png' height='24' width='39'></td>
 <td><code>ColorColumn</code></td>
 </tr>
 <tr></tr>
 <tr>
 <td><code>MatchParen</code></td>
-<td><img src='http://www.colorhexa.com/afb7c0.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/bdc4cb.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/4d7f43.png' height='24' width='39'></td>
 <td colspan='2'><code>Statement</code></td>
-<td><img src='http://www.colorhexa.com/7f9d77.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/7ca271.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/535c65.png' height='24' width='39'></td>
 <td><code>MatchParen</code></td>
 </tr>
@@ -58,8 +60,8 @@
 <td><img src='http://www.colorhexa.com/6d7782.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/008483.png' height='24' width='39'></td>
 <td colspan='2'><code>PreProc</code></td>
-<td><img src='http://www.colorhexa.com/5da19f.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/8c95a0.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/57a8a6.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/9aa2ac.png' height='24' width='39'></td>
 <td><code>Comment</code></td>
 </tr>
 <tr></tr>
@@ -68,8 +70,8 @@
 <td><img src='http://www.colorhexa.com/535c65.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/2b7ab2.png' height='24' width='39'></td>
 <td colspan='2'><code>Constant</code></td>
-<td><img src='http://www.colorhexa.com/759abd.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/afb7c0.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/709ac2.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/bdc4cb.png' height='24' width='39'></td>
 <td><code>Normal fg</code></td>
 </tr>
 <tr></tr>
@@ -78,8 +80,8 @@
 <td><img src='http://www.colorhexa.com/434951.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/8f63a2.png' height='24' width='39'></td>
 <td width='202' colspan='2'><code>Type</code></td>
-<td><img src='http://www.colorhexa.com/a88cb3.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/cbd2d9.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/ab89b8.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/e7ebee.png' height='24' width='39'></td>
 <td><code>Cursor</code></td>
 </tr>
 <tr></tr>
@@ -94,12 +96,12 @@
 </td>
 <td width='202' colspan='2'><code>Spell</code></td>
 <td>
-<img src='http://www.colorhexa.com/df969e.png' height='2' width='6'>
-<img src='http://www.colorhexa.com/7fb0df.png' height='2' width='6'>
-<img src='http://www.colorhexa.com/5eb9b7.png' height='2' width='6'>
-<img src='http://www.colorhexa.com/c39dd1.png' height='2' width='6'>
+<img src='http://www.colorhexa.com/e2929c.png' height='2' width='6'>
+<img src='http://www.colorhexa.com/7db2e3.png' height='2' width='6'>
+<img src='http://www.colorhexa.com/5abfbd.png' height='2' width='6'>
+<img src='http://www.colorhexa.com/c59ad5.png' height='2' width='6'>
 </td>
-<td><img src='http://www.colorhexa.com/ab916d.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/b19268.png' height='24' width='39'></td>
 <td><code>Search</code></td>
 </tr>
 <tr></tr>
