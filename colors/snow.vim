@@ -27,7 +27,7 @@ if &background ==# 'dark'
   hi MoreMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Question ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi NonText ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Normal ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#252628 guisp=NONE cterm=NONE gui=NONE
+  hi Normal ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE gui=NONE
   hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,underline gui=NONE,underline
@@ -35,14 +35,14 @@ if &background ==# 'dark'
   hi CursorLineNr ctermfg=246 ctermbg=NONE guifg=#9aa2ac guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi LineNr ctermfg=246 ctermbg=NONE guifg=#9aa2ac guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi FoldColumn ctermfg=249 ctermbg=NONE guifg=#bdc4cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi PmenuSel ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi PmenuSel ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi SignColumn ctermfg=249 ctermbg=NONE guifg=#bdc4cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi StatusLine ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi StatusLineTerm ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi TabLineSel ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi VisualNOS ctermfg=246 ctermbg=236 guifg=#9aa2ac guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Cursor ctermfg=252 ctermbg=236 guifg=#e7ebee guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi IncSearch ctermfg=252 ctermbg=236 guifg=#e7ebee guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi StatusLine ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi StatusLineTerm ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi TabLineSel ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi VisualNOS ctermfg=246 ctermbg=236 guifg=#9aa2ac guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Cursor ctermfg=252 ctermbg=236 guifg=#e7ebee guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi IncSearch ctermfg=252 ctermbg=236 guifg=#e7ebee guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#323639 guisp=NONE cterm=NONE gui=NONE
   hi CursorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#323639 guisp=NONE cterm=NONE gui=NONE
   hi CursorLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#323639 guisp=NONE cterm=NONE gui=NONE
@@ -69,14 +69,14 @@ if &background ==# 'dark'
   hi Structure ctermfg=139 ctermbg=NONE guifg=#ab89b8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Type ctermfg=139 ctermbg=NONE guifg=#ab89b8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Typedef ctermfg=139 ctermbg=NONE guifg=#ab89b8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi TooLong ctermfg=139 ctermbg=236 guifg=#ab89b8 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi WarningMsg ctermfg=139 ctermbg=236 guifg=#ab89b8 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi TooLong ctermfg=139 ctermbg=236 guifg=#ab89b8 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi WarningMsg ctermfg=139 ctermbg=236 guifg=#ab89b8 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Function ctermfg=138 ctermbg=NONE guifg=#c38389 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=138 ctermbg=NONE guifg=#c38389 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffDelete ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffRemoved ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Error ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi ErrorMsg ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffDelete ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffRemoved ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Error ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi ErrorMsg ctermfg=138 ctermbg=236 guifg=#c38389 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Debug ctermfg=137 ctermbg=NONE guifg=#b19268 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Delimiter ctermfg=137 ctermbg=NONE guifg=#b19268 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Special ctermfg=137 ctermbg=NONE guifg=#b19268 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -84,9 +84,9 @@ if &background ==# 'dark'
   hi SpecialComment ctermfg=137 ctermbg=NONE guifg=#b19268 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SpecialKey ctermfg=137 ctermbg=NONE guifg=#b19268 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Tag ctermfg=137 ctermbg=NONE guifg=#b19268 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffChanged ctermfg=137 ctermbg=236 guifg=#b19268 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffText ctermfg=137 ctermbg=236 guifg=#b19268 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Search ctermfg=137 ctermbg=236 guifg=#b19268 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffChanged ctermfg=137 ctermbg=236 guifg=#b19268 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffText ctermfg=137 ctermbg=236 guifg=#b19268 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Search ctermfg=137 ctermbg=236 guifg=#b19268 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Conditional ctermfg=108 ctermbg=NONE guifg=#7ca271 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Exception ctermfg=108 ctermbg=NONE guifg=#7ca271 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=108 ctermbg=NONE guifg=#7ca271 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -94,23 +94,23 @@ if &background ==# 'dark'
   hi Operator ctermfg=108 ctermbg=NONE guifg=#7ca271 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Repeat ctermfg=108 ctermbg=NONE guifg=#7ca271 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Statement ctermfg=108 ctermbg=NONE guifg=#7ca271 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffAdd ctermfg=108 ctermbg=236 guifg=#7ca271 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffAdded ctermfg=108 ctermbg=236 guifg=#7ca271 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffAdd ctermfg=108 ctermbg=236 guifg=#7ca271 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffAdded ctermfg=108 ctermbg=236 guifg=#7ca271 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Define ctermfg=73 ctermbg=NONE guifg=#57a8a6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Include ctermfg=73 ctermbg=NONE guifg=#57a8a6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Macro ctermfg=73 ctermbg=NONE guifg=#57a8a6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreCondit ctermfg=73 ctermbg=NONE guifg=#57a8a6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreProc ctermfg=73 ctermbg=NONE guifg=#57a8a6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Todo ctermfg=73 ctermbg=236 guifg=#57a8a6 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Todo ctermfg=73 ctermbg=236 guifg=#57a8a6 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Boolean ctermfg=110 ctermbg=NONE guifg=#709ac2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Character ctermfg=110 ctermbg=NONE guifg=#709ac2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Constant ctermfg=110 ctermbg=NONE guifg=#709ac2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Float ctermfg=110 ctermbg=NONE guifg=#709ac2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Number ctermfg=110 ctermbg=NONE guifg=#709ac2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi String ctermfg=110 ctermbg=NONE guifg=#709ac2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Visual ctermfg=110 ctermbg=236 guifg=#709ac2 guibg=#252628 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Visual ctermfg=110 ctermbg=236 guifg=#709ac2 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   if has("nvim")
-    let g:terminal_color_0 = "#252628"
+    let g:terminal_color_0 = "#28292c"
     let g:terminal_color_1 = "#c38389"
     let g:terminal_color_2 = "#7ca271"
     let g:terminal_color_3 = "#b19268"
@@ -128,7 +128,7 @@ if &background ==# 'dark'
     let g:terminal_color_15 = "#e7ebee"
   elseif has("terminal")
     let g:terminal_ansi_colors = [
-        \ "#252628",
+        \ "#28292c",
         \ "#c38389",
         \ "#7ca271",
         \ "#b19268",
@@ -393,13 +393,13 @@ finish
 " Visual             blue   gry0   reverse
 
 " Background: dark
-" Color:      gry0 #252628 ~
+" Color:      gry0 #28292c ~
 " Color:      gry1 #323639 ~
 " Color:      gry2 #9aa2ac ~
 " Color:      gry3 #bdc4cb ~
 " Color:      gryc #e7ebee ~
 " Color:      srch #b19268 ~
-" Color:      grys #252628 ~
+" Color:      grys #28292c ~
 " Color:      gryp #535c65 ~
 " Color:      sprd #e2929c ~
 " Color:      spbl #7db2e3 ~
