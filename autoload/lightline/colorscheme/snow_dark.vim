@@ -1,6 +1,6 @@
 let s:gry0 = [ "#28292c", 236 ]
 let s:gry1 = [ "#323639", 237 ]
-let s:gry3 = [ "#9aa2ac", 249 ]
+let s:gry3 = [ "#bdc4cb", 249 ]
 let s:red_ = [ "#c38389", 138 ]
 let s:mgnt = [ "#ab89b8", 139 ]
 let s:gren = [ "#7ca271", 108 ]

@@ -31,16 +31,16 @@ if &background ==# 'dark'
   hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,underline gui=NONE,underline
-  hi Comment ctermfg=246 ctermbg=NONE guifg=#9aa2ac guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi CursorLineNr ctermfg=246 ctermbg=NONE guifg=#9aa2ac guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi LineNr ctermfg=246 ctermbg=NONE guifg=#9aa2ac guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Comment ctermfg=246 ctermbg=NONE guifg=#929ba5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi CursorLineNr ctermfg=246 ctermbg=NONE guifg=#929ba5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi LineNr ctermfg=246 ctermbg=NONE guifg=#929ba5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi FoldColumn ctermfg=249 ctermbg=NONE guifg=#bdc4cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PmenuSel ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi SignColumn ctermfg=249 ctermbg=NONE guifg=#bdc4cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi StatusLine ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi StatusLineTerm ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TabLineSel ctermfg=249 ctermbg=236 guifg=#bdc4cb guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi VisualNOS ctermfg=246 ctermbg=236 guifg=#9aa2ac guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi VisualNOS ctermfg=246 ctermbg=236 guifg=#929ba5 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Cursor ctermfg=252 ctermbg=236 guifg=#e7ebee guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi IncSearch ctermfg=252 ctermbg=236 guifg=#e7ebee guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#323639 guisp=NONE cterm=NONE gui=NONE
@@ -395,7 +395,7 @@ finish
 " Background: dark
 " Color:      gry0 #28292c ~
 " Color:      gry1 #323639 ~
-" Color:      gry2 #9aa2ac ~
+" Color:      gry2 #929ba5 ~
 " Color:      gry3 #bdc4cb ~
 " Color:      gryc #e7ebee ~
 " Color:      srch #b19268 ~
