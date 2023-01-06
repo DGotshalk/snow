@@ -77,16 +77,16 @@ if &background ==# 'dark'
   hi DiffRemoved ctermfg=138 ctermbg=236 guifg=#c87e86 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Error ctermfg=138 ctermbg=236 guifg=#c87e86 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ErrorMsg ctermfg=138 ctermbg=236 guifg=#c87e86 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Debug ctermfg=137 ctermbg=NONE guifg=#79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Delimiter ctermfg=137 ctermbg=NONE guifg=#79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Special ctermfg=137 ctermbg=NONE guifg=#79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialChar ctermfg=137 ctermbg=NONE guifg=#79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialComment ctermfg=137 ctermbg=NONE guifg=#79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialKey ctermfg=137 ctermbg=NONE guifg=#79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Tag ctermfg=137 ctermbg=NONE guifg=#79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffChanged ctermfg=137 ctermbg=236 guifg=#79362 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffText ctermfg=137 ctermbg=236 guifg=#79362 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Search ctermfg=137 ctermbg=236 guifg=#79362 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Debug ctermfg=137 ctermbg=NONE guifg=#b79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Delimiter ctermfg=137 ctermbg=NONE guifg=#b79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Special ctermfg=137 ctermbg=NONE guifg=#b79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialChar ctermfg=137 ctermbg=NONE guifg=#b79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialComment ctermfg=137 ctermbg=NONE guifg=#b79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialKey ctermfg=137 ctermbg=NONE guifg=#b79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Tag ctermfg=137 ctermbg=NONE guifg=#b79362 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi DiffChanged ctermfg=137 ctermbg=236 guifg=#b79362 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffText ctermfg=137 ctermbg=236 guifg=#b79362 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Search ctermfg=137 ctermbg=236 guifg=#b79362 guibg=#28292c guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Conditional ctermfg=108 ctermbg=NONE guifg=#78a86b guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Exception ctermfg=108 ctermbg=NONE guifg=#78a86b guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=108 ctermbg=NONE guifg=#78a86b guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -113,7 +113,7 @@ if &background ==# 'dark'
     let g:terminal_color_0 = "#28292c"
     let g:terminal_color_1 = "#c87e86"
     let g:terminal_color_2 = "#78a86b"
-    let g:terminal_color_3 = "#79362"
+    let g:terminal_color_3 = "#b79362"
     let g:terminal_color_4 = "#6b9bc7"
     let g:terminal_color_5 = "#ad84bd"
     let g:terminal_color_6 = "#50afad"
@@ -121,7 +121,7 @@ if &background ==# 'dark'
     let g:terminal_color_8 = "#323639"
     let g:terminal_color_9 = "#c87e86"
     let g:terminal_color_10 = "#78a86b"
-    let g:terminal_color_11 = "#79362"
+    let g:terminal_color_11 = "#b79362"
     let g:terminal_color_12 = "#6b9bc7"
     let g:terminal_color_13 = "#ad84bd"
     let g:terminal_color_14 = "#50afad"
@@ -131,7 +131,7 @@ if &background ==# 'dark'
         \ "#28292c",
         \ "#c87e86",
         \ "#78a86b",
-        \ "#79362",
+        \ "#b79362",
         \ "#6b9bc7",
         \ "#ad84bd",
         \ "#50afad",
@@ -139,7 +139,7 @@ if &background ==# 'dark'
         \ "#323639",
         \ "#c87e86",
         \ "#78a86b",
-        \ "#79362",
+        \ "#b79362",
         \ "#6b9bc7",
         \ "#ad84bd",
         \ "#50afad",
@@ -398,7 +398,7 @@ finish
 " Color:      gry2 #929ba5 ~
 " Color:      gry3 #bdc4cb ~
 " Color:      gryc #e7ebee ~
-" Color:      srch #79362 ~
+" Color:      srch #b79362 ~
 " Color:      grys #28292c ~
 " Color:      gryp #535c65 ~
 " Color:      sprd #e68f99 ~
@@ -406,7 +406,7 @@ finish
 " Color:      spcy #54c4c3 ~
 " Color:      spmg #c797d8 ~
 " Color:      red_ #c87e86 ~
-" Color:      gold #79362 ~
+" Color:      gold #b79362 ~
 " Color:      gren #78a86b ~
 " Color:      cyan #50afad ~
 " Color:      blue #6b9bc7 ~
